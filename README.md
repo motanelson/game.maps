@@ -1,1 +1,1 @@
-must install linux pack "radare2"
+game maps draw map of games
